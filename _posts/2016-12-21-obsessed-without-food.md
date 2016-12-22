@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Obsessed without food
 slug: obsessed-without-food
 permalink: /In-Depth Reporting/obsessed-without-food
-title: Obsessed without food
-layout: article
+categories: In-Depth Reporting
 ---
 
 __Obsessed with\(out\) food__

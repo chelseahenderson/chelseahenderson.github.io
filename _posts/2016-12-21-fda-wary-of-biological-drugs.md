@@ -1,8 +1,9 @@
 ---
+layout: article
+title: FDA wary of ‘biological drugs’
 slug: fda-wary-of-biological-drugs
 permalink: /In-Depth Reporting/fda-wary-of-biological-drugs
-title: FDA wary of ‘biological drugs’
-layout: article
+categories: In-Depth Reporting
 ---
 
 __FDA wary of ‘biological drugs’__

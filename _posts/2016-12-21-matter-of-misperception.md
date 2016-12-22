@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Matter of misperception
 slug: matter-of-misperception
 permalink: /In-Depth Reporting/matter-of-misperception
-title: Matter of misperception
-layout: article
+categories: In-Depth Reporting
 ---
 
 __Matter of \(mis\)perception__

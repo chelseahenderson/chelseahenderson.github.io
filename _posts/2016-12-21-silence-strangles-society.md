@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Silence Strangles Society
 slug: silence-strangles-society
 permalink: /Features/silence-strangles-society
-title: Silence Strangles Society
-layout: article
+categories: Features
 ---
 
 __Silence Strangles Society__

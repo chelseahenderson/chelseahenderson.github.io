@@ -1,8 +1,9 @@
 ---
+layout: article
+title: The bus to job security PROFILE
 slug: the-bus-to-job-security-profile
 permalink: /Features/the-bus-to-job-security-profile
-title: The bus to job security PROFILE
-layout: article
+categories: Features
 ---
 
 __The bus to job security__

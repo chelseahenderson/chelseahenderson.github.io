@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Confederate legacy at issue
 slug: confederate-legacy-at-issue
 permalink: /News/confederate-legacy-at-issue
-title: Confederate legacy at issue
-layout: article
+categories: News
 ---
 
 __Confederate legacy at issue__

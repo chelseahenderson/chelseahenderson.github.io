@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Multiple Sclerosis ART
 slug: multiple-sclerosis-art
 permalink: /Features/multiple-sclerosis-art
-title: Multiple Sclerosis ART
-layout: article
+categories: Features
 ---
 
 __Multiple Sclerosis: Painfully invisible__

@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Witches in New Orleans
 slug: witches-in-new-orleans
 permalink: /Commentary/witches-in-new-orleans
-title: Witches in New Orleans
-layout: article
+categories: Commentary
 ---
 
 __Witches in New Orleans__

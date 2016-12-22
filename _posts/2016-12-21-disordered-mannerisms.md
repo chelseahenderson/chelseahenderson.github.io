@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Disordered mannerisms
 slug: disordered-mannerisms
 permalink: /In-Depth Reporting/disordered-mannerisms
-title: Disordered mannerisms
-layout: article
+categories: In-Depth Reporting
 ---
 
 __Disordered \(man\)nerisms__

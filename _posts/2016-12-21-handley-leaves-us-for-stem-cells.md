@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Handley leaves US for stem cells
 slug: handley-leaves-us-for-stem-cells
 permalink: /In-Depth Reporting/handley-leaves-us-for-stem-cells
-title: Handley leaves US for stem cells
-layout: article
+categories: In-Depth Reporting
 ---
 
 __Handley leaves US for stem cells__

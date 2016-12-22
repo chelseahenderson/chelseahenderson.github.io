@@ -1,8 +1,9 @@
 ---
+layout: article
+title: DAs plan Hamstring gangs
 slug: das-plan-hamstring-gangs
 permalink: /News/das-plan-hamstring-gangs
-title: DAs plan Hamstring gangs
-layout: article
+categories: News
 ---
 
 __DA’s plan: Hamstring gangs__

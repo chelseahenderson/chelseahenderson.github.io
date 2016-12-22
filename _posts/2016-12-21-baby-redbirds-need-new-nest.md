@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Baby redbirds need new nest
 slug: baby-redbirds-need-new-nest
 permalink: /Commentary/baby-redbirds-need-new-nest
-title: Baby redbirds need new nest
-layout: article
+categories: Commentary
 ---
 
 __Baby redbirds need new nest__

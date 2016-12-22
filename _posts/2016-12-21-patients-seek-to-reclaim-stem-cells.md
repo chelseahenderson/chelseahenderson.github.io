@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Patients seek to reclaim stem cells
 slug: patients-seek-to-reclaim-stem-cells
 permalink: /In-Depth Reporting/patients-seek-to-reclaim-stem-cells
-title: Patients seek to reclaim stem cells
-layout: article
+categories: In-Depth Reporting
 ---
 
 __Patients seek to reclaim stem cells__

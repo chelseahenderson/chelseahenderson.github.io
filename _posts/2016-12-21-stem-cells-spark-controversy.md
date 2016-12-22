@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Stem cells spark controversy
 slug: stem-cells-spark-controversy
 permalink: /In-Depth Reporting/stem-cells-spark-controversy
-title: Stem cells spark controversy
-layout: article
+categories: In-Depth Reporting
 ---
 
 __Stem cells spark controversy__

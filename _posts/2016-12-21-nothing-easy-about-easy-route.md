@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Nothing easy about ‘easy route’
 slug: nothing-easy-about-easy-route
 permalink: /Commentary/nothing-easy-about-easy-route
-title: Nothing easy about ‘easy route’
-layout: article
+categories: Commentary
 ---
 
 __Nothing easy about ‘easy route’__

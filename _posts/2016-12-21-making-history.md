@@ -1,8 +1,9 @@
 ---
+layout: article
+title: Making history
 slug: making-history
 permalink: /News/making-history
-title: Making history
-layout: article
+categories: News
 ---
 
 __Making history: JeffCo sees first same\-sex marriage__
