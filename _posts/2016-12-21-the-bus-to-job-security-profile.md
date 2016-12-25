@@ -4,16 +4,12 @@ title: The bus to job security PROFILE
 slug: the-bus-to-job-security-profile
 permalink: /Features/the-bus-to-job-security-profile
 categories: Features
-headline: 
-subhead: 
+headline: The bus to job security
+subhead: Students aim to build better lives
 teaser: >
   
 publisher: University Press
 ---
-
-__The bus to job security__
-
-Students aim to build better lives
 
 Published on May 17, 2015
 

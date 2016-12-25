@@ -4,16 +4,12 @@ title: Multiple Sclerosis ART
 slug: multiple-sclerosis-art
 permalink: /Features/multiple-sclerosis-art
 categories: Features
-headline: 
-subhead: 
+headline: Multiple Sclerosis&#58; Painfully invisible
+subhead: Artist documents disease through living journals, drawings
 teaser: >
   
 publisher: University Press
 ---
-
-__Multiple Sclerosis: Painfully invisible__
-
-Artist documents disease through living journals, drawings
 
 Published on April 25, 2013 in UPbeat
 

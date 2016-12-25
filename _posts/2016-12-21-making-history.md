@@ -4,16 +4,12 @@ title: Making history
 slug: making-history
 permalink: /News/making-history
 categories: News
-headline: 
-subhead: 
+headline: Making history&#58; JeffCo sees first same\-sex marriage
+subhead: Ned natives wed hours after county starts issuing licenses
 teaser: >
   
 publisher: University Press
 ---
-
-__Making history: JeffCo sees first same\-sex marriage__
-
-Ned natives wed hours after county starts issuing licenses
 
 Published on June 30, 2015 in The Port Arthur News
 

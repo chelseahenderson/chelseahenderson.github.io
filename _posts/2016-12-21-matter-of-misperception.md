@@ -4,14 +4,12 @@ title: Matter of misperception
 slug: matter-of-misperception
 permalink: /In-Depth Reporting/matter-of-misperception
 categories: In-Depth Reporting
-headline: 
+headline: Matter of (mis)perception
 subhead: 
 teaser: >
   
 publisher: University Press
 ---
-
-__Matter of \(mis\)perception__
 
 Published on Feb\. 24, 2010 in University Press
 

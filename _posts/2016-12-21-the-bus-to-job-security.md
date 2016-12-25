@@ -4,16 +4,12 @@ title: The bus to job security
 slug: the-bus-to-job-security
 permalink: /Features/the-bus-to-job-security
 categories: Features
-headline: 
-subhead: 
+headline: The bus to job security
+subhead: $1,500 offered to PA residents
 teaser: >
   
 publisher: University Press
 ---
-
-__The bus to job security__
-
-$1,500 offered to PA residents
 
 Published on May 17, 2015 in The Port Arthur News
 

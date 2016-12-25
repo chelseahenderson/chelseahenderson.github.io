@@ -4,16 +4,12 @@ title: Dads’ donations leave final gifts
 slug: dads-donations-leave-final-gifts
 permalink: /In-Depth Reporting/dads-donations-leave-final-gifts
 categories: In-Depth Reporting
-headline: 
-subhead: 
+headline: Dads’ donations leave final gifts
+subhead: Posthumously-conceived children face legal barriers
 teaser: >
   
 publisher: University Press
 ---
-
-__Dads’ donations leave final gifts__
-
-Posthumously\-conceived children face legal barriers
 
 Published on April 26, 2012 in UPbeat
 

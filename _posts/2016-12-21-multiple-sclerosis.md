@@ -4,16 +4,12 @@ title: Multiple Sclerosis
 slug: multiple-sclerosis
 permalink: /Features/multiple-sclerosis
 categories: Features
-headline: 
-subhead: 
+headline: Multiple Sclerosis&#58; Painfully Invisible
+subhead: Lamar alumna looks outside U.S. for treatment
 teaser: >
   
 publisher: University Press
 ---
-
-__Multiple Sclerosis: Painfully Invisible__
-
-Lamar alumna looks outside U\.S\. for treatment
 
 Published on April 25, 2015 in UPbeat
 

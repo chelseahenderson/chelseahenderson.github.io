@@ -4,16 +4,12 @@ title: Confederate legacy at issue
 slug: confederate-legacy-at-issue
 permalink: /News/confederate-legacy-at-issue
 categories: News
-headline: 
-subhead: 
+headline: Confederate legacy at issue
+subhead: Letters prompt discussion about PAISD school names
 teaser: >
   
 publisher: University Press
 ---
-
-__Confederate legacy at issue__
-
-Letters prompt discussion about PAISD school names
 
 Published on July 2, 2015 in The Port Arthur News
 

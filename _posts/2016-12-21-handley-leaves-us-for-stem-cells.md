@@ -4,14 +4,12 @@ title: Handley leaves US for stem cells
 slug: handley-leaves-us-for-stem-cells
 permalink: /In-Depth Reporting/handley-leaves-us-for-stem-cells
 categories: In-Depth Reporting
-headline: 
+headline: Handley leaves US for stem cells
 subhead: 
 teaser: >
   
 publisher: University Press
 ---
-
-__Handley leaves US for stem cells__
 
 Published on Nov\. 14, 2013 in University Press
 

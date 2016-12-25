@@ -4,14 +4,12 @@ title: Obsessed without food
 slug: obsessed-without-food
 permalink: /In-Depth Reporting/obsessed-without-food
 categories: In-Depth Reporting
-headline: 
+headline: Obsessed with(out) food
 subhead: 
 teaser: >
   
 publisher: University Press
 ---
-
-__Obsessed with\(out\) food__
 
 Published on Feb\. 19, 2010 in University Press
 

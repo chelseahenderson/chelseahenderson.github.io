@@ -4,14 +4,12 @@ title: Patients seek to reclaim stem cells
 slug: patients-seek-to-reclaim-stem-cells
 permalink: /In-Depth Reporting/patients-seek-to-reclaim-stem-cells
 categories: In-Depth Reporting
-headline: 
+headline: Patients seek to reclaim stem cells
 subhead: 
 teaser: >
   
 publisher: University Press
 ---
-
-__Patients seek to reclaim stem cells__
 
 Published on Nov\. 7, 2013
 

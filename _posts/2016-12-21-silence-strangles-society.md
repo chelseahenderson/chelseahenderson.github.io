@@ -4,16 +4,12 @@ title: Silence Strangles Society
 slug: silence-strangles-society
 permalink: /Features/silence-strangles-society
 categories: Features
-headline: 
-subhead: 
+headline: Silence Strangles Society
+subhead: Rape culture rooted in shame, inequality, aggression
 teaser: >
   
 publisher: University Press
 ---
-
-__Silence Strangles Society__
-
-Rape culture rooted in shame, inequality, aggression
 
 Published on Nov\. 29, 2012 in UPbeat
 

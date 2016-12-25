@@ -4,16 +4,12 @@ title: Nothing easy about ‘easy route’
 slug: nothing-easy-about-easy-route
 permalink: /Commentary/nothing-easy-about-easy-route
 categories: Commentary
-headline: 
-subhead: 
+headline: Nothing easy about ‘easy route’
+subhead: Nation still divided on Roe v. Wade, abortion rights
 teaser: >
   
 publisher: University Press
 ---
-
-__Nothing easy about ‘easy route’__
-
-Nation still divided on Roe v\. Wade, abortion rights
 
 Published on Jan\. 31, 2013 in University Press
 

@@ -4,16 +4,12 @@ title: Witches in New Orleans
 slug: witches-in-new-orleans
 permalink: /Commentary/witches-in-new-orleans
 categories: Commentary
-headline: 
-subhead: 
+headline: Witches in New Orleans
+subhead: Voodoo tourist attractions hold little appeal for authentic pagans, Craft practitioners
 teaser: >
   
 publisher: University Press
 ---
-
-__Witches in New Orleans__
-
-Voodoo tourist attractions hold little appeal for authentic pagans, Craft practitioners
 
 Published on April 25, 2013 in UPbeat
 

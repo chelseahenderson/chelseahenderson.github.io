@@ -4,14 +4,12 @@ title: Disordered mannerisms
 slug: disordered-mannerisms
 permalink: /In-Depth Reporting/disordered-mannerisms
 categories: In-Depth Reporting
-headline: 
+headline: Disordered (man)nerisms
 subhead: 
 teaser: >
   
 publisher: University Press
 ---
-
-__Disordered \(man\)nerisms__
 
 Published on Feb\. 26, 2010 in University Press
 

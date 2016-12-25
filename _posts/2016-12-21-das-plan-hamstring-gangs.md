@@ -4,16 +4,12 @@ title: DAs plan Hamstring gangs
 slug: das-plan-hamstring-gangs
 permalink: /News/das-plan-hamstring-gangs
 categories: News
-headline: 
-subhead: 
+headline: DA’s plan&#58; Hamstring gangs
+subhead: Injunction would make gang activity illegal for members
 teaser: >
   
 publisher: University Press
 ---
-
-__DA’s plan: Hamstring gangs__
-
-Injunction would make gang activity illegal for members
 
 Published on June 21, 2014 in The Port Arthur News
 
