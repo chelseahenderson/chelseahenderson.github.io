@@ -1,7 +1,7 @@
 <article class="col-md-4 listing-article">
   <div class="image-container">
     <a href="{{ include.article.url }}" class="read-more-link">
-      <img alt="{{ include.article.featured_caption }}" class="image" src="http://placebeard.it/300/300?title={{ include.article.title }}" /><!-- {{ include.article.featured_image }}"> -->
+      <img alt="{{ include.article.featured_caption }}" class="image" src="{{ include.article.featured_image }}">
     </a>
   </div>
   
@@ -15,11 +15,6 @@
   <section class="publish-info">
     Published on <span class="publish-date">{{ include.article.date }}</span> in {{ include.article.publisher }}.
   </section>
-  
-  <!--
-  <section class="award-info">
-  </section>
-  -->
 
   <section class="article-body">
     <section class="article-teaser">{{ include.article.teaser }}</section>
