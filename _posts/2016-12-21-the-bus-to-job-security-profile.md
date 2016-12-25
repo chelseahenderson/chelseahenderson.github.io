@@ -4,6 +4,11 @@ title: The bus to job security PROFILE
 slug: the-bus-to-job-security-profile
 permalink: /Features/the-bus-to-job-security-profile
 categories: Features
+headline: 
+subhead: 
+teaser: >
+  
+publisher: University Press
 ---
 
 __The bus to job security__

@@ -4,6 +4,11 @@ title: Silence Strangles Society
 slug: silence-strangles-society
 permalink: /Features/silence-strangles-society
 categories: Features
+headline: 
+subhead: 
+teaser: >
+  
+publisher: University Press
 ---
 
 __Silence Strangles Society__

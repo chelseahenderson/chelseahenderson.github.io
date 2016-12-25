@@ -4,6 +4,11 @@ title: Obsessed without food
 slug: obsessed-without-food
 permalink: /In-Depth Reporting/obsessed-without-food
 categories: In-Depth Reporting
+headline: 
+subhead: 
+teaser: >
+  
+publisher: University Press
 ---
 
 __Obsessed with\(out\) food__

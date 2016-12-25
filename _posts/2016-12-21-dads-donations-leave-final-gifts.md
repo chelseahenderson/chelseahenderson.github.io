@@ -4,6 +4,11 @@ title: Dads’ donations leave final gifts
 slug: dads-donations-leave-final-gifts
 permalink: /In-Depth Reporting/dads-donations-leave-final-gifts
 categories: In-Depth Reporting
+headline: 
+subhead: 
+teaser: >
+  
+publisher: University Press
 ---
 
 __Dads’ donations leave final gifts__

@@ -4,6 +4,11 @@ title: Confederate legacy at issue
 slug: confederate-legacy-at-issue
 permalink: /News/confederate-legacy-at-issue
 categories: News
+headline: 
+subhead: 
+teaser: >
+  
+publisher: University Press
 ---
 
 __Confederate legacy at issue__

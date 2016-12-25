@@ -4,9 +4,13 @@ title: Baby redbirds need new nest
 slug: baby-redbirds-need-new-nest
 permalink: /Commentary/baby-redbirds-need-new-nest
 categories: Commentary
+headline: Baby redbirds need new nest
+subhead: 
+teaser: >
+  Lamar needs a child day-care service. We had a really good program going, 
+  and we just let it go because we let money become more important than our children.
+publisher: University Press
 ---
-
-__Baby redbirds need new nest__
 
 Published on Feb\. 21, 2013 in University Press
 

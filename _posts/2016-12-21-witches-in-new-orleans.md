@@ -4,6 +4,11 @@ title: Witches in New Orleans
 slug: witches-in-new-orleans
 permalink: /Commentary/witches-in-new-orleans
 categories: Commentary
+headline: 
+subhead: 
+teaser: >
+  
+publisher: University Press
 ---
 
 __Witches in New Orleans__

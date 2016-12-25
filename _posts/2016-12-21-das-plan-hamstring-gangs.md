@@ -4,6 +4,11 @@ title: DAs plan Hamstring gangs
 slug: das-plan-hamstring-gangs
 permalink: /News/das-plan-hamstring-gangs
 categories: News
+headline: 
+subhead: 
+teaser: >
+  
+publisher: University Press
 ---
 
 __DA’s plan: Hamstring gangs__

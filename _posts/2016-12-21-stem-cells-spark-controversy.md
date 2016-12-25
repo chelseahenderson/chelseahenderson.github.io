@@ -4,6 +4,11 @@ title: Stem cells spark controversy
 slug: stem-cells-spark-controversy
 permalink: /In-Depth Reporting/stem-cells-spark-controversy
 categories: In-Depth Reporting
+headline: 
+subhead: 
+teaser: >
+  
+publisher: University Press
 ---
 
 __Stem cells spark controversy__

@@ -4,6 +4,11 @@ title: Making history
 slug: making-history
 permalink: /News/making-history
 categories: News
+headline: 
+subhead: 
+teaser: >
+  
+publisher: University Press
 ---
 
 __Making history: JeffCo sees first same\-sex marriage__

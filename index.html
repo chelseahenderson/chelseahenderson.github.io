@@ -1,93 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link href="/stylesheets/bootstrap.css" media="all" rel="stylesheet" />
-  <link href="/stylesheets/style.css" media="all" rel="stylesheet" />
-  <link href='//fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>  
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="author" content="Chelsea Henderson">
-</head>
-<body>  
-  <header class="site-header">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <img class="profile" src="/images/chelsea.jpg">
-          <div class="title-name">Chelsea Henderson</div>
-          <hr/>
-          <div class="title-tagline">Award-winning storyteller and long-form journalist. Also rocks red lipstick.</div>
-        </div>
-      </div>
-    </div>
-  </header>
-  
-  <nav class="site-nav" role="main-navigation">
-    <div class="container">
-      <div class="row">
-        <div class="column col-xs-12">
-          <ul class="site-nav-list">
-            <li class="site-nav-list-item "><a href="/in-depth">In-Depth Reporting</a></li>
-            <li class="site-nav-list-item "><a href="/news">News</a></li>
-            <li class="site-nav-list-item "><a href="/feature">Features</a></li>
-            <li class="site-nav-list-item "><a href="/opinion-editorial">Commentary</a></li>
-            <li class="site-nav-list-item "><a href="/layouts">Page Design</a></li>
-            <li class="site-nav-list-item "><a href="/graphics">Graphics</a></li>
-            <li class="site-nav-list-item "><a href="/pages/about">About Me</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </nav>
-  <div class="nav-toggle visible-xs">
-    <div class="container">
-      <div class="col-xs-12">
-        <div class="clear clearix">
-          <div class="pull-left">
-            Menu
-          </div>
-          <div class="pull-right">
-            <button type="button" class="navbar-toggle" id="nav-toggle">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <section id="main-content">
-    <div class="container">
-      
-    </div>
-  </section>
-  
-  <footer class="site-footer">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-4">
-          <span class="copy-text">&copy; 2016 Chelsea Henderson</span>
-        </div>
-        
-        <div class="col-sm-4">
-            <ul class="social-links clearfix">
-              <li><a href="https://www.facebook.com/crhenderson90" title="Chelsea Henderson's facebook profile"><img class="social-icon icon-twitter" src="/images/facebook.png" alt="Facebook Icon"></a></li>
-              <li><a href="https://twitter.com/crhenderson90" title="Chelsea Henderson's twitter profile"><img class="social-icon icon-twitter" src="/images/twitter.png" alt="Twitter Icon"></a></li>
-              <li><a href="http://www.linkedin.com/pub/chelsea-henderson/84/472/377" title="Chelsea Henderson's linked in profile"><img class="social-icon icon-twitter" src="/images/linkedin.png" alt="LinkedIn Icon"></a></li>
-            </ul>
-        </div>
-        
-        <div class="col-sm-4">
-          <div>Contact Me</div>
-          <a href="/pages/contact" class="button inverse">Email</a>
-        </div>
-      </div>
-    </div>
-  </footer>
+---
+layout: article
+---
 
-    <script>var toggles=document.querySelectorAll(".nav-toggle");for(var i=0;i<toggles.length;i++){var toggle=toggles[i];toggle.addEventListener("click",function(){document.querySelectorAll(".site-nav")[0].classList.toggle("open");document.querySelectorAll("body")[0].classList.toggle("nav-open")})}</script>
-</body>
-</html>
+{{site.time}}
+<div class="row">
+  {% for article in site.categories.Commentary %}
+    {% include article_preview.html article=article %}
+  {% endfor %}
+</div>

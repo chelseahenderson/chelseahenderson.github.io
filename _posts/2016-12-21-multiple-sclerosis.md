@@ -4,6 +4,11 @@ title: Multiple Sclerosis
 slug: multiple-sclerosis
 permalink: /Features/multiple-sclerosis
 categories: Features
+headline: 
+subhead: 
+teaser: >
+  
+publisher: University Press
 ---
 
 __Multiple Sclerosis: Painfully Invisible__

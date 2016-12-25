@@ -1,0 +1,29 @@
+<article class="col-md-4 listing-article">
+  <div class="image-container">
+    <a href="{{ include.article.url }}" class="read-more-link">
+      <img alt="{{ include.article.featured_caption }}" class="image" src="http://placebeard.it/300/300?title={{ include.article.title }}" /><!-- {{ include.article.featured_image }}"> -->
+    </a>
+  </div>
+  
+  <header class="article-listing-header">
+    <a href="{{ include.article.url }}" class="read-more-link">
+      <h3 class="headline">{{ include.article.headline }}</h3>
+    </a>
+    <h4 class="subhead">{{ include.article.subhead }}</h4>
+  </header>
+  
+  <section class="publish-info">
+    Published on <span class="publish-date">{{ include.article.date }}</span> in {{ include.article.publisher }}.
+  </section>
+  
+  <!--
+  <section class="award-info">
+  </section>
+  -->
+
+  <section class="article-body">
+    <section class="article-teaser">{{ include.article.teaser }}</section>
+  </section>
+  
+  <a href="{{ include.article.url }}" class="button read-more-link">Read More</a>
+</article>
