@@ -8,10 +8,8 @@ headline: Witches in New Orleans
 subhead: Voodoo tourist attractions hold little appeal for authentic pagans, Craft practitioners
 teaser: >
   
-publisher: University Press
+publisher: UPbeat
 ---
-
-Published on April 25, 2013 in UPbeat
 
 "Voodoo\! Voodoo\! Get your Voodoo\! We’ve got Voodoo dolls\! We’ve got gris-gris bags\! Voodoo\! Voodoo\! Get your Voodoo\!"
 

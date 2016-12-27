@@ -11,8 +11,6 @@ teaser: >
 publisher: University Press
 ---
 
-Published on Oct. 24, 2013 in University Press
-
 We live in an age where Miley Cyrus’ provocative dancing and spastic tongue exercises can make national headlines, and more 20-somethings can rattle off Grumpy Cat’s biography than name one of the Nobel Prize winners, so it’s hard to imagine a time in which a scientific discovery went "viral."
 
 Scientists generally don’t receive a lot of hype outside of the world of academia. Most college students know that Pluto is no longer a planet and that something called "dark matter" was proved to exist a few years ago — but unless there’s a "Big Bang Theory" episode about it, it may take some time for millennials to catch wind of new research.

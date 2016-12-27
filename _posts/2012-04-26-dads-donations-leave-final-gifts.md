@@ -8,10 +8,8 @@ headline: Dads’ donations leave final gifts
 subhead: Posthumously-conceived children face legal barriers
 teaser: >
   
-publisher: University Press
+publisher: UPbeat
 ---
-
-Published on April 26, 2012 in UPbeat
 
 From a young age, children are curious about where they come from and how they get here. Toddlers hear about a stork who delivers babies to the doorstep, teenagers are told about the "birds and the bees," and high school biology teachers educate their students about human reproduction.
 

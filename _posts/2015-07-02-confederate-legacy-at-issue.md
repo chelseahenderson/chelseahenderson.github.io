@@ -8,10 +8,8 @@ headline: Confederate legacy at issue
 subhead: Letters prompt discussion about PAISD school names
 teaser: >
   
-publisher: University Press
+publisher: The Port Arthur News
 ---
-
-Published on July 2, 2015 in The Port Arthur News
 
 Activist Brittany "Bree" Newsome made headlines Saturday for scaling a 30-foot flagpole and removing the Confederate battle flag that waved over the South Carolina state Capitol.
 

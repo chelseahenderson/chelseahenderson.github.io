@@ -11,8 +11,6 @@ teaser: >
 publisher: University Press
 ---
 
-Published on Nov. 7, 2013
-
 The relationship between patient and doctor — the foundation of our healthcare and physical wellbeing — is sacred in the United States.
 
 With the recitation of the Hippocratic Oath or one of its many variations, physicians and other healthcare practitioners declare they will treat the sick to the best of their abilities and to administer prevention — not cure — whenever possible.

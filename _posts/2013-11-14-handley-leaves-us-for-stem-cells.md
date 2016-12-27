@@ -11,8 +11,6 @@ teaser: >
 publisher: University Press
 ---
 
-Published on Nov. 14, 2013 in University Press
-
 When most 30-somethings travel to a different country for a week, they’re looking for culture, entertainment, inspiration, or simply to have a good time. If they’re headed to Germany for a few days, they’re usually looking for beer — or lederhosen. To each his own.
 
 But there’s a small niche of the tourism industry that caters to the medical needs of U.S. citizens. These hospitals and clinics open their doors to anyone with a passport and fulfill a distinct need that Americans can’t satisfy in the States.

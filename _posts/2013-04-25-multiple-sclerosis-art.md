@@ -8,10 +8,8 @@ headline: Multiple Sclerosis&#58; Painfully invisible
 subhead: Artist documents disease through living journals, drawings
 teaser: >
   
-publisher: University Press
+publisher: UPbeat
 ---
-
-Published on April 25, 2013 in UPbeat
 
 Mismatched striped socks adorn Cecelia Johnson’s feet as she slowly struts across her living room floor, "showing off" her ability to walk. Her big toe plays peek-a-boo from a hole. She periodically wiggles the sock back down to avoid the cool air in her Houston apartment.
 

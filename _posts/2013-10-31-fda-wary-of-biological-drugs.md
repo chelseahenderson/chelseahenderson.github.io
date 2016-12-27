@@ -11,8 +11,6 @@ teaser: >
 publisher: University Press
 ---
 
-Published on Oct. 31, 2013 in University Press
-
 The Code of Federal Regulations is by no means "light" reading material. It is a tome of legal knowledge and jargon, the playbook of the United States government. Its pages contain an exhaustive maze of convoluted directions and terminology that, while outlined and defined within the text, hold little meaning for the average reader.
 
 It is down this legal rabbit hole that potential stem cell patients find themselves falling when they seek treatment. And unless they have previous experience in statutory law, they will assuredly find themselves overwhelmed by the red tape that precedes stem cell therapy.

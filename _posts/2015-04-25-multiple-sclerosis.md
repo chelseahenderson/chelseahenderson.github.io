@@ -8,10 +8,8 @@ headline: Multiple Sclerosis&#58; Painfully Invisible
 subhead: Lamar alumna looks outside U.S. for treatment
 teaser: >
   
-publisher: University Press
+publisher: UPbeat
 ---
-
-Published on April 25, 2015 in UPbeat
 
 The casual onlooker might not think anything is amiss with Cecelia Johnson.
 

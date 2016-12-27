@@ -8,10 +8,8 @@ headline: The bus to job security
 subhead: $1,500 offered to PA residents
 teaser: >
   
-publisher: University Press
+publisher: The Port Arthur News
 ---
-
-Published on May 17, 2015 in The Port Arthur News
 
 Lamar State College-Port Arthur is gearing up for its second round of a new commercial driving program — designed specifically, and upon request, to fill vacancies with the City of Port Arthur and the Port Arthur Independent School District — to train students for their Class B commercial drivers license. Port Arthur residents who apply for the 12-week course are eligible for a $1,500 scholarship from the Port Arthur Economic Development Corporation.
 

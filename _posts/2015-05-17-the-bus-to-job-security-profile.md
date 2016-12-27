@@ -8,10 +8,8 @@ headline: The bus to job security
 subhead: Students aim to build better lives
 teaser: >
   
-publisher: University Press
+publisher: The Port Arthur News
 ---
-
-Published on May 17, 2015
 
 Tisha Armstead said she’s used to meeting residents who have "been through hell and back."
 

@@ -12,8 +12,6 @@ teaser: >
 publisher: University Press
 ---
 
-Published on Feb. 21, 2013 in University Press
-
 When it comes to higher education funding, state budget cuts are a difficult topic.
 
 No one really wants to take responsibility for deciding which programs get cut, which departments lose the most money, or which services students will no longer benefit from. No one wants to receive angry letters or phone calls from students and employees, asking "Why us?"

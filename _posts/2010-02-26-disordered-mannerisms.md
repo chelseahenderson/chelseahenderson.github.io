@@ -11,8 +11,6 @@ teaser: >
 publisher: University Press
 ---
 
-Published on Feb. 26, 2010 in University Press
-
 *Editor’s note: This is the third installment of a three-part series on eating disorders.*
 
 Eating disorders are considered to be a feminine disease. Celebrities like Karen Carpenter have cemented the idea that some women will literally kill themselves to be thin. The world can watch as Lindsay Lohan's ribs become more prominent and the Olsen twins wear bigger and bigger clothes to hide their various protruding bones.

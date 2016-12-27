@@ -8,10 +8,8 @@ headline: Silence Strangles Society
 subhead: Rape culture rooted in shame, inequality, aggression
 teaser: >
   
-publisher: University Press
+publisher: UPbeat
 ---
-
-Published on Nov. 29, 2012 in UPbeat
 
 A young woman gets ready for a party. She selects a new blouse with a tailored jacket and her favorite pair of skinny jeans. While walking out the door, she hears the beginning of a news segment. A woman has been raped while jogging a few cities away.
 

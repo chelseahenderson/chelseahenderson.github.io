@@ -11,8 +11,6 @@ teaser: >
 publisher: University Press
 ---
 
-Published on Feb. 19, 2010 in University Press
-
 *Editor’s note: This is the first installment of a three-part series on eating disorders.*
 
 Anorexia nervosa, bulimia nervosa and overeating are the "major" eating disorders that can make students feel alienated from their peers and families. The constant cycle of lying about what they eat and what they do with the food after they eat it can take a toll on how students feel about their relationships, their commitment to school and how they view themselves.

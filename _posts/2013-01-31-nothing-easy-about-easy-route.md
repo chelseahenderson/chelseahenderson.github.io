@@ -11,8 +11,6 @@ teaser: >
 publisher: University Press
 ---
 
-Published on Jan. 31, 2013 in University Press
-
 Forty years ago, this country took a tremendous stride toward women’s rights. Forty years ago, the U.S. Supreme Court ruled that a right to privacy under the due process clause of the 14th Amendment extended to a woman’s decision to have an abortion.
 
 Forty years ago, the ruling of Roe v. Wade changed, and divided, this nation.

@@ -8,10 +8,8 @@ headline: Making history&#58; JeffCo sees first same-sex marriage
 subhead: Ned natives wed hours after county starts issuing licenses
 teaser: >
   
-publisher: University Press
+publisher: The Port Arthur News
 ---
-
-Published on June 30, 2015 in The Port Arthur News
 
 Holly Pryor and Tia Marshall sat alone, exchanging nervous giggles and reassuring smiles in equal measure, waiting in a pew at the Jefferson County Sub- Courthouse in Port Arthur Monday afternoon.
 

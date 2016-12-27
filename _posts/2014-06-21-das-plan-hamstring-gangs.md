@@ -8,10 +8,8 @@ headline: DA’s plan&#58; Hamstring gangs
 subhead: Injunction would make gang activity illegal for members
 teaser: >
   
-publisher: University Press
+publisher: The Port Arthur News
 ---
-
-Published on June 21, 2014 in The Port Arthur News
 
 Port Arthur may appear like an average American town during the day.
 

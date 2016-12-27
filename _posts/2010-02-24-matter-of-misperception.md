@@ -11,8 +11,6 @@ teaser: >
 publisher: University Press
 ---
 
-Published on Feb. 24, 2010 in University Press
-
 *Editor’s note: This is the second installment of a three-part series on eating disorders.*
 
 Women are pressured in different ways than men when it comes to their bodies and what it takes to be considered attractive. For some, curves are a must, and they will practically kill to have them and to represent voluptuous women well. They aim for the va-va-voom effect when they shop for clothes and select their meals and exercise routines.
